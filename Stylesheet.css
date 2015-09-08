@@ -1,0 +1,63 @@
+body {background-image: url("assets/img/Background.jpg");
+    background-size:100px 100px;
+    background-repeat:repeat;}
+div{cursor:not-allowed;}
+td{
+    border:1px solid black;
+}
+div{display:block;
+    float:left;
+    clear:both;
+    padding:20px 20px 20px 20px;
+    margin:20px 20px 20px 20px;
+    border:2px solid blue;
+    border-radius:50px;
+    background-color:yellow;
+    height:200px;
+    width:500px;
+    box-shadow:10px 10px 10px grey;
+    text-align:center;
+    white-space:normal;
+
+}
+span{
+    vertical-align:10px;
+    text-decoration:underline;
+    font-weight:bold;
+    color:red;
+}
+h1{
+    text-shadow:3px 3px red;
+}
+p{
+    font-family:"Arial", Serif;
+    font-size:16px;
+    text-align:left;
+
+
+}
+
+#esimene{
+    height:350px;
+    }
+
+#toidud li{
+    list-style-type: square;
+    line-height:200%;}
+#sport{
+
+    line-height:200%;}
+#stats {
+
+    }
+#end {
+    min-width:400px;
+    max-width:600px;
+    }
+#pilt{position:fixed;
+    margin-left:100px;
+    margin-top:20px;}
+
+table {
+    margin: 0 auto;
+}
